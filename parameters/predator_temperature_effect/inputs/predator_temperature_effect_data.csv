@@ -1,0 +1,67 @@
+author,year,journal,species,temperature_C,experiment,y_value,y_unit,notes
+Myrick,2000,Enviro Bio Fish,Sac Pikeminnow,10.0098360655737,Ucrit,0.389802631578947,m/s,
+Myrick,2000,Enviro Bio Fish,Sac Pikeminnow,14.9868852459016,Ucrit,0.568421052631578,m/s,
+Myrick,2000,Enviro Bio Fish,Sac Pikeminnow,19.9819672131147,Ucrit,0.499342105263157,m/s,
+Steigenberger,1973,J. Fish Re. B. Can.,N Pikeminnow,5.91501955496906,Dig Eff,0.020798789408761,NA,
+Steigenberger,1973,J. Fish Re. B. Can.,N Pikeminnow,5.9133939585186,Dig Eff,0.026358329269342,NA,
+Steigenberger,1973,J. Fish Re. B. Can.,N Pikeminnow,5.93921225508476,Dig Eff,0.050559755013053,NA,
+Steigenberger,1973,J. Fish Re. B. Can.,N Pikeminnow,9.86005527027931,Dig Eff,0.028776643047707,NA,
+Steigenberger,1973,J. Fish Re. B. Can.,N Pikeminnow,9.94468190902397,Dig Eff,0.076853538540979,NA,
+Steigenberger,1973,J. Fish Re. B. Can.,N Pikeminnow,9.83624506344607,Dig Eff,0.110207550417395,NA,
+Steigenberger,1973,J. Fish Re. B. Can.,N Pikeminnow,15.0077454889698,Dig Eff,0.198676095126079,NA,
+Steigenberger,1973,J. Fish Re. B. Can.,N Pikeminnow,14.9385142048442,Dig Eff,0.210447086835537,NA,
+Steigenberger,1973,J. Fish Re. B. Can.,N Pikeminnow,14.901029863163,Dig Eff,0.226143535385409,NA,
+Steigenberger,1973,J. Fish Re. B. Can.,N Pikeminnow,19.9162817828011,Dig Eff,0.286481970222897,NA,
+Steigenberger,1973,J. Fish Re. B. Can.,N Pikeminnow,19.9082494238694,Dig Eff,0.313952637769299,NA,
+Steigenberger,1973,J. Fish Re. B. Can.,N Pikeminnow,23.4394274075561,Dig Eff,0.387323933560916,NA,
+Steigenberger,1973,J. Fish Re. B. Can.,N Pikeminnow,23.540405634126,Dig Eff,0.379478398691872,NA,
+Steigenberger,1973,J. Fish Re. B. Can.,N Pikeminnow,19.8533616378362,Dig Eff,0.38916886600304,NA,
+Steigenberger,1973,J. Fish Re. B. Can.,N Pikeminnow,23.8799640456314,Dig Eff,0.455688631343412,NA,
+Beamish,1970,Can J Zoo,Largemouth B.,10.1548053045913,Met,194.426732540609,mg/kg/h,
+Beamish,1970,Can J Zoo,Largemouth B.,14.8858773181169,Met,244.679034193924,mg/kg/h,
+Beamish,1970,Can J Zoo,Largemouth B.,20.2476620700586,Met,318.360970523191,mg/kg/h,
+Beamish,1970,Can J Zoo,Largemouth B.,24.5844560680509,Met,393.284186750614,mg/kg/h,
+Beamish,1970,Can J Zoo,Largemouth B.,29.9462408199926,Met,511.71664870197,mg/kg/h,
+Beamish,1970,Can J Zoo,Largemouth B.,33.8206002007713,Met,459.092013610482,mg/kg/h,
+Adams,1982,Can J Fish Aq Sci,Striped B.,13.9596671056901,Digest Rate,0.039100499680936,h^-1,
+Adams,1982,Can J Fish Aq Sci,Striped B.,17.0828990818683,Digest Rate,0.040876533191848,h^-1,
+Adams,1982,Can J Fish Aq Sci,Striped B.,20.0609860848651,Digest Rate,0.059626120358515,h^-1,
+Adams,1982,Can J Fish Aq Sci,Striped B.,20.0662543663746,Digest Rate,0.054884890390509,h^-1,
+Adams,1982,Can J Fish Aq Sci,Striped B.,23.0254442726526,Digest Rate,0.06522940920127,h^-1,
+Adams,1982,Can J Fish Aq Sci,Striped B.,26.0694229704708,Digest Rate,0.080485163193351,h^-1,
+Adams,1982,Can J Fish Aq Sci,Striped B.,28.0667888297161,Digest Rate,0.085468175181291,h^-1,
+Adams,1982,Can J Fish Aq Sci,Striped B.,26.0256924163469,Digest Rate,0.072822173725692,h^-1,
+Coutant,1975,Nat. Symp. Centr.,Largemouth B.,5,Cruising speed,19,ft/s,
+Coutant,1975,Nat. Symp. Centr.,Largemouth B.,12,Cruising speed,44,ft/s,
+Coutant,1975,Nat. Symp. Centr.,Largemouth B.,17,Cruising speed,48,ft/s,
+Coutant,1975,Nat. Symp. Centr.,Largemouth B.,22,Cruising speed,82,ft/s,
+Coutant,1975,Nat. Symp. Centr.,Largemouth B.,29,Cruising speed,80,ft/s,
+Coutant,1975,Nat. Symp. Centr.,Largemouth B.,5,feeding rate,0.010394579909886,worms/fish/day,
+Coutant,1975,Nat. Symp. Centr.,Largemouth B.,11.9515306122449,feeding rate,1.60399549430162,worms/fish/day,
+Coutant,1975,Nat. Symp. Centr.,Largemouth B.,16.9897959183673,feeding rate,2.30846640604294,worms/fish/day,
+Coutant,1975,Nat. Symp. Centr.,Largemouth B.,19.9234693877551,feeding rate,4.104699509674,worms/fish/day,
+Coutant,1975,Nat. Symp. Centr.,Largemouth B.,26.9387755102041,feeding rate,4.31830605618871,worms/fish/day,
+Lemons&Crenshaw,1985,Physiological Zoology,Largemouth B.,4,feeding rate,2.01378555775156,worms/day/100mg,
+Lemons&Crenshaw,1985,Physiological Zoology,Largemouth B.,6,feeding rate,3.45130559957209,worms/day/100mg,
+Lemons&Crenshaw,1985,Physiological Zoology,Largemouth B.,8,feeding rate,2.35717378185871,worms/day/100mg,
+Lemons&Crenshaw,1985,Physiological Zoology,Largemouth B.,10,feeding rate,19.914785691719,worms/day/100mg,
+Lemons&Crenshaw,1985,Physiological Zoology,Largemouth B.,12,feeding rate,63.0867337983742,worms/day/100mg,
+Lemons&Crenshaw,1985,Physiological Zoology,Largemouth B.,14,feeding rate,131.609217738417,worms/day/100mg,
+Lemons&Crenshaw,1985,Physiological Zoology,Largemouth B.,16,feeding rate,159.981808744841,worms/day/100mg,
+Lemons&Crenshaw,1985,Physiological Zoology,Largemouth B.,18,feeding rate,242.320954253151,worms/day/100mg,
+Gerber & Haynes,1988,J Freshw Ecol,Smallmouth B.,15.6,activity,61,% active obs.,"Ontario, 1985"
+Gerber & Haynes,1988,J Freshw Ecol,Smallmouth B.,14.3,activity,64,% active obs.,"Ontario, 1986"
+Gerber & Haynes,1988,J Freshw Ecol,Smallmouth B.,18.8,activity,32,% active obs.,"Tribs, 1985"
+Gerber & Haynes,1988,J Freshw Ecol,Smallmouth B.,17.9,activity,39,% active obs.,"Tribs, 1986"
+Gerber & Haynes,1988,J Freshw Ecol,Smallmouth B.,15.6,seasonal speed,0.7,km/d,"Ontario, 1985"
+Gerber & Haynes,1988,J Freshw Ecol,Smallmouth B.,14.3,seasonal speed,0.7,km/d,"Ontario, 1986"
+Gerber & Haynes,1988,J Freshw Ecol,Smallmouth B.,18.8,seasonal speed,0.2,km/d,"Tribs, 1985"
+Gerber & Haynes,1988,J Freshw Ecol,Smallmouth B.,17.9,seasonal speed,0.3,km/d,"Tribs, 1986"
+Gerber & Haynes,1988,J Freshw Ecol,Smallmouth B.,15.6,short-term speed,0.3,km/h,"Ontario, 1985"
+Gerber & Haynes,1988,J Freshw Ecol,Smallmouth B.,14.3,short-term speed,0.3,km/h,"Ontario, 1986"
+Gerber & Haynes,1988,J Freshw Ecol,Smallmouth B.,18.8,short-term speed,0.1,km/h,"Tribs, 1985"
+Gerber & Haynes,1988,J Freshw Ecol,Smallmouth B.,17.9,short-term speed,0.1,km/h,"Tribs, 1986"
+Whitledge et al.,2002,J Freshw Ecol,Smallmouth B.,18.0000000000001,specific daily met. Demand,0.904824885473622,% bw/d,
+Whitledge et al.,2002,J Freshw Ecol,Smallmouth B.,22.0158415841585,specific daily met. Demand,1.37872026008571,% bw/d,
+Whitledge et al.,2002,J Freshw Ecol,Smallmouth B.,26.0198019801981,specific daily met. Demand,1.36006723806709,% bw/d,
+Whitledge et al.,2002,J Freshw Ecol,Smallmouth B.,30.0118811881188,specific daily met. Demand,1.61005984926851,% bw/d,

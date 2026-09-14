@@ -1,0 +1,7 @@
+"species","parameter","value"
+"Chinook","threshold",2.477981772
+"Chinook","minimum",0.126676460913093
+"Chinook","exp",-0.0740709527373276
+"steelhead","threshold",0.481231954
+"steelhead","minimum",0.0993854738824956
+"steelhead","exp",-0.0973589857157961

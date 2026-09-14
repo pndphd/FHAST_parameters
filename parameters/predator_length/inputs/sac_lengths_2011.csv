@@ -1,0 +1,858 @@
+SiteName,Date,Event,SiteType,RepairType,Sample event,Species,FL,TL,Mort
+85.6L,3/2/2011,1,Control,Historic,March,Chinook,60,64,No
+85.6L,3/2/2011,1,Control,Historic,March,Chinook,60,65,No
+85.6L,3/2/2011,1,Control,Historic,March,Chinook,47,50,No
+85.6L,3/2/2011,1,Control,Historic,March,Shiner,45,50,No
+85.6L,3/2/2011,1,Control,Historic,March,Shiner,45,50,No
+85.6R,3/2/2011,1,R,No Bench,March,Bass,201,210,No
+85.6R,3/2/2011,1,R,No Bench,March,Bass,165,177,No
+85.6R,3/2/2011,1,R,No Bench,March,Bass,110,115,No
+85.6R,3/2/2011,1,R,No Bench,March,Green,113,118,No
+85.6R,3/2/2011,1,R,No Bench,March,Pikeminnow,120,133,No
+85.6R,3/2/2011,1,R,No Bench,March,Pikeminnow,132,147,No
+85.6R,3/2/2011,1,R,No Bench,March,Pikeminnow,81,90,No
+85.6R,3/2/2011,1,R,No Bench,March,Pikeminnow,82,90,No
+85.6R,3/2/2011,1,R,No Bench,March,Pikeminnow,0,107,No
+85.6R,3/2/2011,1,R,No Bench,March,Pikeminnow,83,92,No
+85.6R,3/2/2011,1,R,No Bench,March,Pikeminnow,50,55,No
+85.6R,3/2/2011,1,R,No Bench,March,Pikeminnow,84,92,No
+85.6R,3/2/2011,1,R,No Bench,March,Pikeminnow,75,82,No
+85.6R,3/2/2011,1,R,No Bench,March,Readear,106,113,No
+85.6R,3/2/2011,1,R,No Bench,March,Readear,112,119,No
+85.6R,3/2/2011,1,R,No Bench,March,Steelhead,172,187,No
+85.6R,3/2/2011,1,R,No Bench,March,Sucker,61,65,No
+85.6R,3/2/2011,1,R,No Bench,March,Threadfin,78,87,No
+85.6R,3/2/2011,1,R,No Bench,March,Tule,98,105,No
+85.6R,3/2/2011,1,R,No Bench,March,Tule,82,90,No
+85.6R,3/2/2011,1,R,No Bench,March,Tule,120,128,No
+85.6R,3/2/2011,1,R,No Bench,March,Tule,80,86,No
+85.6R,3/2/2011,1,R,No Bench,March,Tule,75,81,No
+85.6R,3/2/2011,1,R,No Bench,March,Tule,75,81,No
+85.6R,3/2/2011,1,R,No Bench,March,Tule,82,87,No
+85.6R,3/2/2011,1,R,No Bench,March,Tule,101,110,No
+85.6R,3/2/2011,1,R,No Bench,March,Tule,77,82,No
+85.6R,3/2/2011,1,R,No Bench,March,Tule,97,103,No
+85.6R,3/2/2011,1,R,No Bench,March,Tule,110,117,No
+85.6R,3/2/2011,1,R,No Bench,March,Tule,79,84,No
+90.8R,3/2/2011,1,N,Natural,March,Carp,82,94,No
+90.8R,3/2/2011,1,N,Natural,March,Carp,110,124,No
+90.8R,3/2/2011,1,N,Natural,March,Carp,85,92,No
+90.8R,3/2/2011,1,N,Natural,March,Chinook,58,62,No
+90.8R,3/2/2011,1,N,Natural,March,Chinook,31,33,No
+90.8R,3/2/2011,1,N,Natural,March,Chinook,41,43,No
+90.8R,3/2/2011,1,N,Natural,March,Chinook,36,38,No
+90.8R,3/2/2011,1,N,Natural,March,Chinook,57,61,No
+90.8R,3/2/2011,1,N,Natural,March,Chinook,56,59,No
+90.8R,3/2/2011,1,N,Natural,March,Chinook,47,50,No
+90.8R,3/2/2011,1,N,Natural,March,Chinook,39,41,No
+90.8R,3/2/2011,1,N,Natural,March,Chinook,51,54,No
+90.8R,3/2/2011,1,N,Natural,March,Chinook,53,56,No
+90.8R,3/2/2011,1,N,Natural,March,Chinook,39,41,No
+90.8R,3/2/2011,1,N,Natural,March,Chinook,35,37,No
+90.8R,3/2/2011,1,N,Natural,March,Pikeminnow,118,132,No
+90.8R,3/2/2011,1,N,Natural,March,Pikeminnow,171,186,No
+90.8R,3/2/2011,1,N,Natural,March,Pikeminnow,112,122,No
+90.8R,3/2/2011,1,N,Natural,March,Pikeminnow,65,71,No
+90.8R,3/2/2011,1,N,Natural,March,Sucker,26,28,No
+90.8R,3/2/2011,1,N,Natural,March,Unid juvenile,51,56,No
+91.9R,3/2/2011,1,N,Natural,March,Chinook,41,44,No
+91.9R,3/2/2011,1,N,Natural,March,Chinook,37,39,No
+91.9R,3/2/2011,1,N,Natural,March,Chinook,36,38,No
+91.9R,3/2/2011,1,N,Natural,March,Chinook,36,38,No
+91.9R,3/2/2011,1,N,Natural,March,Chinook,50,54,No
+91.9R,3/2/2011,1,N,Natural,March,Chinook,55,59,No
+91.9R,3/2/2011,1,N,Natural,March,Chinook,48,50,No
+91.9R,3/2/2011,1,N,Natural,March,Chinook,40,42,No
+91.9R,3/2/2011,1,N,Natural,March,Chinook,39,41,No
+91.9R,3/2/2011,1,N,Natural,March,Chinook,40,42,No
+91.9R,3/2/2011,1,N,Natural,March,Chinook,37,39,No
+91.9R,3/2/2011,1,N,Natural,March,Chinook,37,39,No
+91.9R,3/2/2011,1,N,Natural,March,Pikeminnow,162,179,No
+91.9R,3/2/2011,1,N,Natural,March,Pikeminnow,111,123,No
+91.9R,3/2/2011,1,N,Natural,March,Shiner,41,45,No
+91.9R,3/2/2011,1,N,Natural,March,Steelhead,230,242,No
+91.9R,3/2/2011,1,N,Natural,March,Steelhead,205,218,No
+91.9R,3/2/2011,1,N,Natural,March,Steelhead,191,202,No
+91.9R,3/2/2011,1,N,Natural,March,Unid juvenile,39,33,No
+91.9R,3/2/2011,1,N,Natural,March,Warmouth,50,53,No
+56.0R,3/3/2011,1,Control,Historic,March,Bass,215,229,No
+56.0R,3/3/2011,1,Control,Historic,March,Bass,150,161,No
+56.0R,3/3/2011,1,Control,Historic,March,Bass,160,170,No
+56.0R,3/3/2011,1,Control,Historic,March,Bass,121,127,No
+56.0R,3/3/2011,1,Control,Historic,March,Bass,135,142,No
+56.0R,3/3/2011,1,Control,Historic,March,Bass,125,132,No
+56.0R,3/3/2011,1,Control,Historic,March,Bass,178,195,No
+56.0R,3/3/2011,1,Control,Historic,March,Bass,150,160,No
+56.0R,3/3/2011,1,Control,Historic,March,Bass,120,127,No
+56.0R,3/3/2011,1,Control,Historic,March,Bass,58,60,No
+56.0R,3/3/2011,1,Control,Historic,March,Pikeminnow,174,190,No
+56.0R,3/3/2011,1,Control,Historic,March,Pikeminnow,205,225,No
+56.0R,3/3/2011,1,Control,Historic,March,Pikeminnow,160,173,No
+56.0R,3/3/2011,1,Control,Historic,March,Pikeminnow,170,182,No
+56.0R,3/3/2011,1,Control,Historic,March,Pikeminnow,122,135,No
+56.0R,3/3/2011,1,Control,Historic,March,Pikeminnow,76,83,No
+56.0R,3/3/2011,1,Control,Historic,March,Pikeminnow,75,84,No
+56.0R,3/3/2011,1,Control,Historic,March,Tule,85,88,No
+57.2R,3/3/2011,1,R,Setback,March,Bass,56,58,No
+57.2R,3/3/2011,1,R,Setback,March,Bluegill,110,115,No
+57.2R,3/3/2011,1,R,Setback,March,Chinook,675,735,No
+57.2R,3/3/2011,1,R,Setback,March,Pikeminnow,114,125,No
+57.2R,3/3/2011,1,R,Setback,March,Pikeminnow,150,165,No
+57.2R,3/3/2011,1,R,Setback,March,Readear,125,130,No
+69.1L,3/3/2011,1,N,Natural,March,Bass,195,210,No
+69.1L,3/3/2011,1,N,Natural,March,Bluegill,106,113,No
+69.1L,3/3/2011,1,N,Natural,March,Chinook,33,35,No
+69.1L,3/3/2011,1,N,Natural,March,Chinook,62,67,No
+69.1L,3/3/2011,1,N,Natural,March,Chinook,53,57,No
+69.1L,3/3/2011,1,N,Natural,March,Chinook,40,43,No
+69.1L,3/3/2011,1,N,Natural,March,Chinook,58,63,No
+69.1L,3/3/2011,1,N,Natural,March,Chinook,40,42,No
+69.1L,3/3/2011,1,N,Natural,March,Chinook,35,37,No
+69.1L,3/3/2011,1,N,Natural,March,Chinook,50,53,No
+69.1L,3/3/2011,1,N,Natural,March,Chinook,43,45,No
+69.1L,3/3/2011,1,N,Natural,March,Chinook,41,43,No
+69.1L,3/3/2011,1,N,Natural,March,Chinook,36,38,No
+69.1L,3/3/2011,1,N,Natural,March,Chinook,50,53,No
+69.1L,3/3/2011,1,N,Natural,March,Chinook,46,48,No
+69.1L,3/3/2011,1,N,Natural,March,Pikeminnow,112,130,No
+69.1L,3/3/2011,1,N,Natural,March,Pikeminnow,120,130,No
+69.1L,3/3/2011,1,N,Natural,March,Pikeminnow,167,180,No
+69.1L,3/3/2011,1,N,Natural,March,Shiner,57,60,No
+69.1L,3/3/2011,1,N,Natural,March,Shiner,57,60,No
+69.1L,3/3/2011,1,N,Natural,March,Shiner,49,53,No
+69.1L,3/3/2011,1,N,Natural,March,Tule,125,130,No
+69.1L,3/3/2011,1,N,Natural,March,Tule,89,93,No
+69.9R,3/3/2011,1,R,No Bench,March,Bass,135,143,No
+69.9R,3/3/2011,1,R,No Bench,March,Bass,128,136,No
+69.9R,3/3/2011,1,R,No Bench,March,Bass,140,147,No
+69.9R,3/3/2011,1,R,No Bench,March,Bass,150,158,No
+69.9R,3/3/2011,1,R,No Bench,March,Bass,150,157,No
+69.9R,3/3/2011,1,R,No Bench,March,Bass,126,134,No
+69.9R,3/3/2011,1,R,No Bench,March,Bass,147,155,No
+69.9R,3/3/2011,1,R,No Bench,March,Bass,65,67,No
+69.9R,3/3/2011,1,R,No Bench,March,Bass,81,84,No
+69.9R,3/3/2011,1,R,No Bench,March,Bass,60,62,No
+69.9R,3/3/2011,1,R,No Bench,March,Bass,47,49,No
+69.9R,3/3/2011,1,R,No Bench,March,Bass,71,73,No
+69.9R,3/3/2011,1,R,No Bench,March,Bass,35,37,No
+69.9R,3/3/2011,1,R,No Bench,March,Bass,63,65,No
+69.9R,3/3/2011,1,R,No Bench,March,Carp,105,120,No
+69.9R,3/3/2011,1,R,No Bench,March,Carp,420,465,No
+69.9R,3/3/2011,1,R,No Bench,March,Chinook,62,67,No
+69.9R,3/3/2011,1,R,No Bench,March,Chinook,66,71,No
+69.9R,3/3/2011,1,R,No Bench,March,Chinook,62,67,No
+69.9R,3/3/2011,1,R,No Bench,March,Chinook,46,49,No
+69.9R,3/3/2011,1,R,No Bench,March,Pikeminnow,145,157,No
+69.9R,3/3/2011,1,R,No Bench,March,Pikeminnow,140,153,No
+69.9R,3/3/2011,1,R,No Bench,March,Pikeminnow,98,106,No
+69.9R,3/3/2011,1,R,No Bench,March,Pikeminnow,92,101,No
+69.9R,3/3/2011,1,R,No Bench,March,Pikeminnow,95,102,No
+69.9R,3/3/2011,1,R,No Bench,March,Readear,51,54,No
+69.9R,3/3/2011,1,R,No Bench,March,Roach,43,46,No
+69.9R,3/3/2011,1,R,No Bench,March,Roach,65,69,No
+69.9R,3/3/2011,1,R,No Bench,March,Shiner,52,55,No
+69.9R,3/3/2011,1,R,No Bench,March,Shiner,57,61,No
+69.9R,3/3/2011,1,R,No Bench,March,Shiner,57,60,No
+69.9R,3/3/2011,1,R,No Bench,March,Steelhead,111,122,No
+69.9R,3/3/2011,1,R,No Bench,March,Threadfin,77,88,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Bass,45,47,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Bass,148,157,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Bass,60,62,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Bass,52,54,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Bluegill,55,57,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Bluegill,115,125,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Chinook,82,90,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Chinook,62,67,Yes
+72.2R,3/3/2011,1,R,Undulating Bench,March,Chinook,82,89,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Chinook,53,56,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Chinook,52,56,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Chinook,46,49,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Chinook,33,35,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Chinook,40,43,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Chinook,39,41,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Pikeminnow,105,114,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Pikeminnow,71,77,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Pikeminnow,75,80,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Pikeminnow,65,71,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Pikeminnow,176,192,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Pikeminnow,92,100,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Pikeminnow,73,80,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Pikeminnow,86,93,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Steelhead,197,210,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Sucker,60,63,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Sucker,52,55,No
+72.2R,3/3/2011,1,R,Undulating Bench,March,Sucker,35,37,No
+43.7R,3/4/2011,1,R,10:1 Slope,March,Bass,58,60,No
+43.7R,3/4/2011,1,R,10:1 Slope,March,Bass,66,69,No
+43.7R,3/4/2011,1,R,10:1 Slope,March,Bluegill,37,39,No
+43.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,43,46,No
+43.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,63,68,No
+43.7R,3/4/2011,1,R,10:1 Slope,March,Pikeminnow,120,130,No
+43.7R,3/4/2011,1,R,10:1 Slope,March,Pikeminnow,55,59,No
+43.7R,3/4/2011,1,R,10:1 Slope,March,Shiner,70,77,No
+43.7R,3/4/2011,1,R,10:1 Slope,March,Shiner,45,47,No
+43.7R,3/4/2011,1,R,10:1 Slope,March,Shiner,52,55,No
+43.7R,3/4/2011,1,R,10:1 Slope,March,Shiner,65,69,No
+43.7R,3/4/2011,1,R,10:1 Slope,March,Shiner,62,66,No
+43.7R,3/4/2011,1,R,10:1 Slope,March,Shiner,57,60,No
+43.7R,3/4/2011,1,R,10:1 Slope,March,Sucker,65,70,No
+43.7R,3/4/2011,1,R,10:1 Slope,March,Threadfin,89,99,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Bass,65,68,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Bass,112,118,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Bass,59,61,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Blackfish,432,468,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Bluegill,45,48,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Bluegill,95,100,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Bluegill,32,33,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,60,64,Yes
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,47,50,Yes
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,52,55,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,33,35,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,40,42,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,65,70,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,40,42,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,47,52,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,35,37,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,53,56,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,45,48,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,39,41,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,40,42,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,40,42,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,45,49,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,57,60,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,37,39,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,48,51,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,39,41,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,39,41,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,39,41,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,40,42,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,62,65,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,53,57,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,45,48,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Chinook,64,69,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Pikeminnow,62,66,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Pikeminnow,68,74,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Sculpin,0,94,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Sculpin,0,94,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Sculpin,0,100,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Shiner,74,80,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Shiner,75,81,No
+44.7R,3/4/2011,1,R,10:1 Slope,March,Shiner,49,52,No
+47.0L,3/4/2011,1,R,10:1 Slope,March,Bass,52,54,No
+47.0L,3/4/2011,1,R,10:1 Slope,March,Bluegill,102,109,No
+47.0L,3/4/2011,1,R,10:1 Slope,March,Chinook,38,41,No
+47.0L,3/4/2011,1,R,10:1 Slope,March,Chinook,46,49,No
+47.0L,3/4/2011,1,R,10:1 Slope,March,Pikeminnow,76,84,No
+47.0L,3/4/2011,1,R,10:1 Slope,March,Pikeminnow,43,46,No
+47.0L,3/4/2011,1,R,10:1 Slope,March,Pikeminnow,56,61,No
+47.0L,3/4/2011,1,R,10:1 Slope,March,Pikeminnow,50,54,No
+47.0L,3/4/2011,1,R,10:1 Slope,March,Sculpin,0,100,No
+47.0L,3/4/2011,1,R,10:1 Slope,March,Sculpin,0,80,No
+47.0L,3/4/2011,1,R,10:1 Slope,March,Sucker,45,47,No
+47.0L,3/4/2011,1,R,10:1 Slope,March,Tule,94,99,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Bass,48,50,Yes
+47.9R,3/4/2011,1,R,10:1 Slope,March,Bass,52,55,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Bass,70,72,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Bass,72,75,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Bass,65,68,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Bass,86,90,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Bass,110,116,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Bass,155,162,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Bass,113,118,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Bass,80,84,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Bass,76,80,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Bass,51,54,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Chinook,34,36,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Chinook,40,42,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Chinook,35,37,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Chinook,40,43,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Chinook,39,42,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Readear,45,47,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Shiner,71,77,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Tule,98,102,No
+47.9R,3/4/2011,1,R,10:1 Slope,March,Warmouth,65,69,No
+50.2L,3/4/2011,1,R,No Bench,March,Bass,135,146,No
+50.2L,3/4/2011,1,R,No Bench,March,Bass,68,71,No
+50.2L,3/4/2011,1,R,No Bench,March,Bass,60,62,No
+50.2L,3/4/2011,1,R,No Bench,March,Bass,60,63,No
+50.2L,3/4/2011,1,R,No Bench,March,Chinook,64,73,No
+50.2L,3/4/2011,1,R,No Bench,March,Chinook,66,72,No
+50.2L,3/4/2011,1,R,No Bench,March,Chinook,73,80,No
+50.2L,3/4/2011,1,R,No Bench,March,Chinook,67,72,No
+50.2L,3/4/2011,1,R,No Bench,March,Pikeminnow,70,78,No
+50.2L,3/4/2011,1,R,No Bench,March,Sculpin,0,100,No
+50.2L,3/4/2011,1,R,No Bench,March,Sculpin,0,88,No
+50.2L,3/4/2011,1,R,No Bench,March,Sculpin,0,87,No
+50.2L,3/4/2011,1,R,No Bench,March,Shiner,82,90,No
+50.2L,3/4/2011,1,R,No Bench,March,Tule,78,84,No
+50.2L,3/4/2011,1,R,No Bench,March,Tule,80,84,No
+50.2L,3/4/2011,1,R,No Bench,March,Tule,82,88,No
+50.2L,3/4/2011,1,R,No Bench,March,Tule,73,78,No
+50.2L,3/4/2011,1,R,No Bench,March,Tule,80,85,No
+50.3R,3/4/2011,1,N,Natural,March,Bass,95,100,No
+50.3R,3/4/2011,1,N,Natural,March,Chinook,38,40,Yes
+50.3R,3/4/2011,1,N,Natural,March,Chinook,40,43,No
+50.3R,3/4/2011,1,N,Natural,March,Chinook,38,41,No
+50.3R,3/4/2011,1,N,Natural,March,Chinook,58,63,No
+50.3R,3/4/2011,1,N,Natural,March,Chinook,47,50,No
+50.3R,3/4/2011,1,N,Natural,March,Chinook,40,42,No
+50.3R,3/4/2011,1,N,Natural,March,Pikeminnow,38,40,No
+50.3R,3/4/2011,1,N,Natural,March,Sucker,400,430,No
+24.0R,3/5/2011,1,Control,Historic,March,Bass,230,245,No
+24.0R,3/5/2011,1,Control,Historic,March,Bass,212,221,No
+24.0R,3/5/2011,1,Control,Historic,March,Bass,212,225,No
+24.0R,3/5/2011,1,Control,Historic,March,Bass,130,138,No
+24.0R,3/5/2011,1,Control,Historic,March,Bass,115,122,No
+24.0R,3/5/2011,1,Control,Historic,March,Bass,140,150,No
+24.0R,3/5/2011,1,Control,Historic,March,Bass,133,140,No
+24.0R,3/5/2011,1,Control,Historic,March,Bass,126,134,No
+24.0R,3/5/2011,1,Control,Historic,March,Bass,135,142,No
+24.0R,3/5/2011,1,Control,Historic,March,Bass,68,71,No
+24.0R,3/5/2011,1,Control,Historic,March,Bass,136,144,No
+24.0R,3/5/2011,1,Control,Historic,March,Blackfish,360,398,No
+24.0R,3/5/2011,1,Control,Historic,March,Chinook,72,78,No
+24.0R,3/5/2011,1,Control,Historic,March,Gshiner,77,80,No
+24.0R,3/5/2011,1,Control,Historic,March,Readear,106,113,No
+25.0L,3/5/2011,1,N,Natural,March,Chinook,47,52,Yes
+25.0L,3/5/2011,1,N,Natural,March,Chinook,58,64,No
+25.0L,3/5/2011,1,N,Natural,March,Chinook,68,74,No
+25.0L,3/5/2011,1,N,Natural,March,Chinook,60,65,No
+25.0L,3/5/2011,1,N,Natural,March,Chinook,62,67,No
+25.0L,3/5/2011,1,N,Natural,March,Chinook,63,68,No
+25.0L,3/5/2011,1,N,Natural,March,Chinook,53,57,No
+25.0L,3/5/2011,1,N,Natural,March,Chinook,64,69,No
+25.0L,3/5/2011,1,N,Natural,March,Chinook,66,72,No
+25.0L,3/5/2011,1,N,Natural,March,Chinook,68,74,No
+25.0L,3/5/2011,1,N,Natural,March,Chinook,70,77,No
+25.0L,3/5/2011,1,N,Natural,March,Chinook,72,78,No
+25.0L,3/5/2011,1,N,Natural,March,Chinook,61,66,No
+25.0L,3/5/2011,1,N,Natural,March,Chinook,70,77,No
+25.0L,3/5/2011,1,N,Natural,March,Shiner,77,83,No
+25.0L,3/5/2011,1,N,Natural,March,Shiner,50,54,No
+25.0L,3/5/2011,1,N,Natural,March,Shiner,76,81,No
+25.0L,3/5/2011,1,N,Natural,March,Shiner,54,60,No
+25.0L,3/5/2011,1,N,Natural,March,Shiner,49,53,No
+25.0L,3/5/2011,1,N,Natural,March,Shiner,52,56,No
+25.0L,3/5/2011,1,N,Natural,March,Shiner,72,81,No
+25.0L,3/5/2011,1,N,Natural,March,Shiner,47,50,No
+25.0L,3/5/2011,1,N,Natural,March,Shiner,50,54,No
+25.0L,3/5/2011,1,N,Natural,March,Shiner,77,82,No
+25.0L,3/5/2011,1,N,Natural,March,Shiner,77,82,No
+25.0L,3/5/2011,1,N,Natural,March,Shiner,68,73,No
+25.0L,3/5/2011,1,N,Natural,March,Shiner,72,77,No
+25.0L,3/5/2011,1,N,Natural,March,Shiner,72,77,No
+25.0L,3/5/2011,1,N,Natural,March,Shiner,64,69,No
+25.0L,3/5/2011,1,N,Natural,March,Shiner,58,62,No
+25.0L,3/5/2011,1,N,Natural,March,Shiner,47,51,No
+25.0L,3/5/2011,1,N,Natural,March,Shiner,55,59,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Bass,67,70,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Bass,69,72,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Bass,53,56,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Bass,52,55,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Bass,60,63,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Bass,108,114,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Bass,70,74,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Bass,68,71,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Bass,107,112,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Bass,62,65,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Bass,57,60,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Chinook,53,57,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Chinook,66,71,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Chinook,67,72,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Chinook,41,43,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Chinook,68,72,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Chinook,68,73,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Chinook,66,71,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Chinook,37,39,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Chinook,57,61,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Chinook,41,43,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Chinook,63,68,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Chinook,63,68,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Pikeminnow,578,624,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Pikeminnow,62,67,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Pikeminnow,118,129,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Sculpin,0,99,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Shiner,77,83,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Shiner,80,86,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Shiner,76,84,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Shiner,58,62,No
+26.9L,3/5/2011,1,R,Wetland Trench,March,Shiner,42,45,No
+34.5R,3/5/2011,1,R,Wetland Trench,March,Bass,68,70,No
+34.5R,3/5/2011,1,R,Wetland Trench,March,Bass,69,71,No
+34.5R,3/5/2011,1,R,Wetland Trench,March,Bass,60,65,No
+34.5R,3/5/2011,1,R,Wetland Trench,March,Chinook,60,65,No
+34.5R,3/5/2011,1,R,Wetland Trench,March,Chinook,69,75,No
+34.5R,3/5/2011,1,R,Wetland Trench,March,Chinook,59,64,No
+34.5R,3/5/2011,1,R,Wetland Trench,March,Chinook,69,74,No
+34.5R,3/5/2011,1,R,Wetland Trench,March,Chinook,61,66,No
+34.5R,3/5/2011,1,R,Wetland Trench,March,Gshiner,78,81,No
+34.5R,3/5/2011,1,R,Wetland Trench,March,Pikeminnow,57,60,No
+34.5R,3/5/2011,1,R,Wetland Trench,March,Pikeminnow,0,0,No
+38.7R,3/5/2011,1,Control,Historic,March,Bass,156,166,No
+38.7R,3/5/2011,1,Control,Historic,March,Bass,135,144,No
+38.7R,3/5/2011,1,Control,Historic,March,Bass,125,131,No
+38.7R,3/5/2011,1,Control,Historic,March,Bass,31,39,No
+38.7R,3/5/2011,1,Control,Historic,March,Bass,65,68,No
+38.7R,3/5/2011,1,Control,Historic,March,Chinook,36,38,No
+38.7R,3/5/2011,1,Control,Historic,March,Gshiner,100,103,No
+38.7R,3/5/2011,1,Control,Historic,March,Pikeminnow,170,175,No
+38.7R,3/5/2011,1,Control,Historic,March,Tule,100,105,No
+38.7R,3/5/2011,1,Control,Historic,March,Wcatfish,170,181,No
+90.8R,4/18/2011,2,N,Natural,April,Bluegill,167,176,No
+90.8R,4/18/2011,2,N,Natural,April,Chinook,72,78,No
+90.8R,4/18/2011,2,N,Natural,April,Pikeminnow,160,175,No
+91.9R,4/18/2011,2,N,Natural,April,Chinook,45,48,No
+91.9R,4/18/2011,2,N,Natural,April,Chinook,48,51,No
+91.9R,4/18/2011,2,N,Natural,April,Chinook,63,68,Yes
+91.9R,4/18/2011,2,N,Natural,April,Pikeminnow,155,169,No
+91.9R,4/18/2011,2,N,Natural,April,Pikeminnow,160,175,No
+91.9R,4/18/2011,2,N,Natural,April,Tule,111,120,No
+69.1L,4/19/2011,2,N,Natural,April,Chinook,72,77,No
+69.1L,4/19/2011,2,N,Natural,April,Chinook,64,69,No
+69.1L,4/19/2011,2,N,Natural,April,Chinook,63,68,No
+69.1L,4/19/2011,2,N,Natural,April,Chinook,56,61,No
+69.1L,4/19/2011,2,N,Natural,April,Chinook,46,50,No
+69.1L,4/19/2011,2,N,Natural,April,Rshiner,50,54,No
+69.1L,4/19/2011,2,N,Natural,April,Sucker,415,439,No
+69.9R,4/19/2011,2,R,No Bench,April,Chinook,65,69,Yes
+72.2R,4/19/2011,2,R,Undulating Bench,April,Bluegill,45,48,No
+72.2R,4/19/2011,2,R,Undulating Bench,April,Carp,535,592,No
+72.2R,4/19/2011,2,R,Undulating Bench,April,Carp,635,691,No
+72.2R,4/19/2011,2,R,Undulating Bench,April,Chinook,95,103,No
+72.2R,4/19/2011,2,R,Undulating Bench,April,Chinook,75,81,No
+72.2R,4/19/2011,2,R,Undulating Bench,April,Chinook,67,73,No
+72.2R,4/19/2011,2,R,Undulating Bench,April,Chinook,72,80,No
+72.2R,4/19/2011,2,R,Undulating Bench,April,Chinook,82,90,No
+72.2R,4/19/2011,2,R,Undulating Bench,April,Chinook,47,51,No
+72.2R,4/19/2011,2,R,Undulating Bench,April,Pikeminnow,116,126,No
+72.2R,4/19/2011,2,R,Undulating Bench,April,Sucker,78,82,No
+72.2R,4/19/2011,2,R,Undulating Bench,April,Sucker,65,71,No
+72.2R,4/19/2011,2,R,Undulating Bench,April,Tule,58,61,No
+85.6L,4/19/2011,2,Control,Historic,April,Bass,65,68,No
+85.6L,4/19/2011,2,Control,Historic,April,Chinook,55,60,No
+85.6L,4/19/2011,2,Control,Historic,April,Chinook,66,71,No
+85.6L,4/19/2011,2,Control,Historic,April,Chinook,56,61,No
+85.6L,4/19/2011,2,Control,Historic,April,Chinook,49,53,No
+85.6L,4/19/2011,2,Control,Historic,April,Chinook,57,61,No
+85.6L,4/19/2011,2,Control,Historic,April,Shiner,53,57,No
+85.6L,4/19/2011,2,Control,Historic,April,Striper,266,285,No
+85.6L,4/19/2011,2,Control,Historic,April,Sucker,77,81,No
+85.6L,4/19/2011,2,Control,Historic,April,Sucker,176,186,No
+85.6R,4/19/2011,2,R,No Bench,April,Bass,91,97,No
+85.6R,4/19/2011,2,R,No Bench,April,Bass,95,101,No
+85.6R,4/19/2011,2,R,No Bench,April,Green,81,85,No
+90.8L,4/19/2011,2,Control,Historic,April,Carp,180,200,No
+90.8L,4/19/2011,2,Control,Historic,April,Chinook,55,60,No
+90.8L,4/19/2011,2,Control,Historic,April,Chinook,45,48,No
+90.8L,4/19/2011,2,Control,Historic,April,Pikeminnow,232,254,No
+90.8L,4/19/2011,2,Control,Historic,April,Pikeminnow,145,165,No
+90.8L,4/19/2011,2,Control,Historic,April,Pikeminnow,186,200,No
+90.8L,4/19/2011,2,Control,Historic,April,Pikeminnow,165,177,No
+90.8L,4/19/2011,2,Control,Historic,April,Pikeminnow,142,153,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,100,107,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,172,184,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,160,174,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,174,185,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,220,232,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,126,136,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,85,91,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,127,135,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,111,121,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,91,97,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,77,82,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,65,71,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,61,67,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,42,45,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,75,81,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,55,60,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,67,72,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,80,86,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,61,66,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,80,87,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,51,55,No
+90.8L,4/19/2011,2,Control,Historic,April,Sucker,37,40,No
+90.8L,4/19/2011,2,Control,Historic,April,Tule,122,130,No
+90.8L,4/19/2011,2,Control,Historic,April,Tule,96,101,No
+90.8L,4/19/2011,2,Control,Historic,April,Tule,80,86,No
+90.8L,4/19/2011,2,Control,Historic,April,Tule,115,122,No
+90.8L,4/19/2011,2,Control,Historic,April,Tule,81,87,No
+90.8L,4/19/2011,2,Control,Historic,April,Tule,95,101,No
+90.8L,4/19/2011,2,Control,Historic,April,Tule,92,99,No
+90.8L,4/19/2011,2,Control,Historic,April,Tule,68,73,No
+90.8L,4/19/2011,2,Control,Historic,April,Tule,115,121,No
+90.8L,4/19/2011,2,Control,Historic,April,Tule,125,133,No
+90.8L,4/19/2011,2,Control,Historic,April,Tule,80,86,No
+90.8L,4/19/2011,2,Control,Historic,April,Tule,88,93,No
+24.0L,4/20/2011,2,N,Natural,April,Bass,285,301,No
+24.0L,4/20/2011,2,N,Natural,April,Bass,156,166,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,82,91,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,63,68,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,80,88,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,82,89,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,70,77,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,81,88,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,78,83,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,83,90,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,80,88,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,81,89,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,77,84,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,79,87,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,75,81,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,75,81,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,81,88,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,61,67,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,67,73,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,72,79,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,63,67,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,65,71,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,86,93,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,85,91,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,87,93,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,87,95,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,85,91,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,86,93,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,85,92,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,85,92,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,81,89,Yes
+24.0L,4/20/2011,2,N,Natural,April,Chinook,76,82,Yes
+24.0L,4/20/2011,2,N,Natural,April,Chinook,76,82,Yes
+24.0L,4/20/2011,2,N,Natural,April,Chinook,77,83,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,76,83,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,78,84,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,69,76,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,77,85,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,78,86,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,77,84,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,80,88,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,79,86,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,80,88,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,78,84,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,73,81,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,77,84,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,67,72,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,65,70,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,75,81,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,69,76,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,76,82,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,69,76,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,77,83,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,79,85,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,77,83,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,79,86,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,73,80,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,83,90,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,75,81,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,61,67,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,77,83,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,60,65,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,76,82,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,75,82,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,76,83,No
+24.0L,4/20/2011,2,N,Natural,April,Chinook,76,82,No
+24.0L,4/20/2011,2,N,Natural,April,Hitch,110,126,No
+24.0L,4/20/2011,2,N,Natural,April,Hitch,80,90,No
+24.0L,4/20/2011,2,N,Natural,April,Hitch,75,84,No
+24.0L,4/20/2011,2,N,Natural,April,Pikeminnow,230,250,No
+24.0L,4/20/2011,2,N,Natural,April,Shiner,59,63,No
+24.0L,4/20/2011,2,N,Natural,April,Shiner,56,60,No
+24.0L,4/20/2011,2,N,Natural,April,Shiner,60,63,No
+24.0L,4/20/2011,2,N,Natural,April,Shiner,40,43,No
+24.0L,4/20/2011,2,N,Natural,April,Shiner,55,59,No
+24.0L,4/20/2011,2,N,Natural,April,Shiner,59,64,No
+24.0L,4/20/2011,2,N,Natural,April,Shiner,47,51,No
+24.0L,4/20/2011,2,N,Natural,April,Shiner,50,54,No
+24.0L,4/20/2011,2,N,Natural,April,Shiner,55,59,No
+24.0L,4/20/2011,2,N,Natural,April,Shiner,45,49,No
+24.0L,4/20/2011,2,N,Natural,April,Shiner,45,49,No
+24.0L,4/20/2011,2,N,Natural,April,Shiner,46,50,No
+24.0L,4/20/2011,2,N,Natural,April,Shiner,40,43,No
+24.0L,4/20/2011,2,N,Natural,April,Shiner,66,70,No
+24.0L,4/20/2011,2,N,Natural,April,Tule,154,165,No
+24.0L,4/20/2011,2,N,Natural,April,Wcatfish,202,213,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Bass,296,315,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Bass,303,323,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Bass,72,75,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Bluegill,115,123,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,67,72,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,80,88,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,80,88,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,70,76,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,69,75,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,64,69,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,56,60,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,49,53,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,72,77,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,81,88,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,76,82,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,69,76,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,54,59,Yes
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,57,61,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,71,77,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,57,62,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,81,88,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,76,83,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,68,73,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,68,73,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,51,56,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,73,80,Yes
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,62,67,Yes
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,72,78,Yes
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,72,78,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,71,78,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,65,70,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,81,89,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,89,98,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,86,92,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,101,109,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,95,103,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,90,99,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,83,90,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,88,95,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,88,96,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,86,92,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Chinook,98,108,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Dsmelt,80,86,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Dsmelt,70,76,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Dsmelt,74,79,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Readear,153,161,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Sucker,70,75,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Sucker,485,511,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Sucker,520,545,No
+47.0L,4/20/2011,2,R,10:1 Slope,April,Warmouth,101,108,No
+47.9R,4/20/2011,2,R,10:1 Slope,April,Bass,63,66,No
+47.9R,4/20/2011,2,R,10:1 Slope,April,Chinook,46,49,Yes
+47.9R,4/20/2011,2,R,10:1 Slope,April,Chinook,55,59,Yes
+47.9R,4/20/2011,2,R,10:1 Slope,April,Chinook,66,71,No
+47.9R,4/20/2011,2,R,10:1 Slope,April,Chinook,53,57,No
+47.9R,4/20/2011,2,R,10:1 Slope,April,Chinook,59,64,No
+47.9R,4/20/2011,2,R,10:1 Slope,April,Chinook,57,61,No
+47.9R,4/20/2011,2,R,10:1 Slope,April,Chinook,61,66,No
+47.9R,4/20/2011,2,R,10:1 Slope,April,Chinook,50,53,No
+47.9R,4/20/2011,2,R,10:1 Slope,April,Chinook,46,49,No
+47.9R,4/20/2011,2,R,10:1 Slope,April,Chinook,54,58,No
+47.9R,4/20/2011,2,R,10:1 Slope,April,Pikeminnow,112,122,No
+47.9R,4/20/2011,2,R,10:1 Slope,April,Sucker,76,81,No
+50.2L,4/20/2011,2,R,No Bench,April,Carp,560,622,No
+50.2L,4/20/2011,2,R,No Bench,April,Carp,766,775,No
+50.2L,4/20/2011,2,R,No Bench,April,Chinook,52,56,No
+50.2L,4/20/2011,2,R,No Bench,April,Chinook,56,61,Yes
+50.2L,4/20/2011,2,R,No Bench,April,Chinook,67,72,No
+50.2L,4/20/2011,2,R,No Bench,April,Sucker,490,529,No
+50.2L,4/20/2011,2,R,No Bench,April,Sucker,429,454,No
+50.3R,4/20/2011,2,N,Natural,April,Bass,303,319,No
+50.3R,4/20/2011,2,N,Natural,April,Bass,205,213,No
+50.3R,4/20/2011,2,N,Natural,April,Bass,236,246,No
+50.3R,4/20/2011,2,N,Natural,April,Bass,300,316,No
+50.3R,4/20/2011,2,N,Natural,April,Chinook,56,59,No
+50.3R,4/20/2011,2,N,Natural,April,Chinook,51,56,No
+50.3R,4/20/2011,2,N,Natural,April,Chinook,47,50,No
+56.0R,4/20/2011,2,Control,Historic,April,Carp,620,681,No
+56.0R,4/20/2011,2,Control,Historic,April,Pikeminnow,169,184,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Bass,320,340,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Bass,155,162,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Blackfish,390,410,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Bluegill,49,52,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Bluegill,59,62,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,71,78,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,66,71,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,56,61,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,78,85,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,79,86,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,70,77,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,56,62,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,74,81,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,70,75,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,77,83,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,90,99,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,85,90,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,84,90,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,82,90,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,73,80,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,70,78,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,70,77,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,80,87,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,68,73,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,77,85,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,57,63,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,49,52,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,55,69,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,53,57,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Chinook,59,64,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Pikeminnow,214,224,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Pikeminnow,163,180,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Pikeminnow,168,182,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Pikeminnow,189,204,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Pikeminnow,158,173,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Pikeminnow,151,165,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Readear,152,169,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Readear,135,143,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Striper,565,610,No
+34.5R,4/21/2011,2,R,Wetland Trench,April,Sucker,118,125,No
+38.7R,4/21/2011,2,Control,Historic,April,Bass,76,81,No
+38.7R,4/21/2011,2,Control,Historic,April,Bass,118,124,No
+38.7R,4/21/2011,2,Control,Historic,April,Bass,145,153,No
+38.7R,4/21/2011,2,Control,Historic,April,Bass,144,150,No
+38.7R,4/21/2011,2,Control,Historic,April,Bass,128,133,No
+38.7R,4/21/2011,2,Control,Historic,April,Bass,72,76,No
+38.7R,4/21/2011,2,Control,Historic,April,Chinook,80,88,No
+38.7R,4/21/2011,2,Control,Historic,April,Chinook,81,89,No
+38.7R,4/21/2011,2,Control,Historic,April,Chinook,65,69,No
+38.7R,4/21/2011,2,Control,Historic,April,Chinook,80,88,No
+38.7R,4/21/2011,2,Control,Historic,April,Green,113,160,No
+38.7R,4/21/2011,2,Control,Historic,April,Sculpin,0,91,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Bass,130,138,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,60,66,Yes
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,71,77,Yes
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,50,54,Yes
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,60,65,Yes
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,62,66,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,81,89,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,79,87,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,77,82,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,62,66,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,81,89,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,62,67,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,82,90,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,82,90,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,63,68,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,59,64,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,55,58,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,56,60,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,63,68,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,60,64,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,58,63,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,85,91,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,85,91,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,85,91,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,85,91,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,74,80,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,59,64,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,75,81,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,54,59,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,47,50,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,61,66,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,45,48,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,80,89,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,57,61,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,45,48,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,50,54,Yes
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,81,89,Yes
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,48,51,Yes
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,79,87,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,70,77,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,75,82,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,80,88,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,72,79,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,62,67,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,56,61,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,54,58,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,47,52,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,70,77,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,56,61,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,80,88,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,80,88,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,62,67,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Dsmelt,75,78,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Dsmelt,75,78,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Pikeminnow,80,88,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Shiner,73,79,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Shiner,60,64,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Splittail,355,404,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Striper,290,313,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Sucker,70,75,No
+43.7R,4/21/2011,2,R,10:1 Slope,April,Threadfin,112,130,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Carp,200,221,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,66,71,Yes
+44.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,47,50,Yes
+44.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,79,85,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,77,84,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,77,85,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,60,65,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,79,85,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,56,61,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,66,71,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,67,72,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,59,63,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,66,71,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,53,59,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,62,68,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,86,93,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,85,91,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,85,91,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Chinook,85,92,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Pikeminnow,128,141,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Splittail,289,340,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Splittail,336,397,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Splittail,272,313,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Splittail,334,390,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Striper,717,766,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Striper,200,215,No
+44.7R,4/21/2011,2,R,10:1 Slope,April,Striper,292,309,No
+24.0R,4/22/2011,2,Control,Historic,April,Bass,356,381,No
+24.0R,4/22/2011,2,Control,Historic,April,Bass,327,348,No
+24.0R,4/22/2011,2,Control,Historic,April,Bass,294,313,No
+24.0R,4/22/2011,2,Control,Historic,April,Bass,297,310,No
+24.0R,4/22/2011,2,Control,Historic,April,Bass,132,140,No
+24.0R,4/22/2011,2,Control,Historic,April,Bass,138,146,No
+24.0R,4/22/2011,2,Control,Historic,April,Bass,325,333,No
+24.0R,4/22/2011,2,Control,Historic,April,Bass,325,333,No
+24.0R,4/22/2011,2,Control,Historic,April,Bass,110,117,No
+24.0R,4/22/2011,2,Control,Historic,April,Bass,121,129,No
+24.0R,4/22/2011,2,Control,Historic,April,Bass,138,147,No
+24.0R,4/22/2011,2,Control,Historic,April,Bass,340,350,No
+24.0R,4/22/2011,2,Control,Historic,April,Bass,153,162,No
+24.0R,4/22/2011,2,Control,Historic,April,Bass,127,136,No
+24.0R,4/22/2011,2,Control,Historic,April,Bass,125,132,No
+24.0R,4/22/2011,2,Control,Historic,April,Chinook,72,77,No
+25.0L,4/22/2011,2,N,Natural,April,Bass,320,340,No
+25.0L,4/22/2011,2,N,Natural,April,Bass,269,286,No
+25.0L,4/22/2011,2,N,Natural,April,Chinook,82,90,No
+25.0L,4/22/2011,2,N,Natural,April,Chinook,82,90,No
+25.0L,4/22/2011,2,N,Natural,April,Chinook,52,56,Yes
+25.0L,4/22/2011,2,N,Natural,April,Chinook,81,89,No
+25.0L,4/22/2011,2,N,Natural,April,Chinook,74,80,Yes
+25.0L,4/22/2011,2,N,Natural,April,Chinook,76,82,No
+25.0L,4/22/2011,2,N,Natural,April,Chinook,66,72,No
+25.0L,4/22/2011,2,N,Natural,April,Chinook,78,85,No
+25.0L,4/22/2011,2,N,Natural,April,Chinook,80,88,No
+25.0L,4/22/2011,2,N,Natural,April,Chinook,74,81,No
+25.0L,4/22/2011,2,N,Natural,April,Chinook,70,77,No
+25.0L,4/22/2011,2,N,Natural,April,Chinook,80,87,No
+25.0L,4/22/2011,2,N,Natural,April,Chinook,58,62,No
+25.0L,4/22/2011,2,N,Natural,April,Chinook,54,58,No
+25.0L,4/22/2011,2,N,Natural,April,Chinook,55,59,No
+25.0L,4/22/2011,2,N,Natural,April,Chinook,85,92,No
+25.0L,4/22/2011,2,N,Natural,April,Chinook,106,116,No
+25.0L,4/22/2011,2,N,Natural,April,Chinook,85,92,No
+25.0L,4/22/2011,2,N,Natural,April,Chinook,85,92,No
+25.0L,4/22/2011,2,N,Natural,April,Pikeminnow,537,575,No
+25.0L,4/22/2011,2,N,Natural,April,Pikeminnow,321,342,No
+25.0L,4/22/2011,2,N,Natural,April,Shiner,49,53,No
+25.0L,4/22/2011,2,N,Natural,April,Shiner,49,53,No
+25.0L,4/22/2011,2,N,Natural,April,Shiner,53,57,No
+25.0L,4/22/2011,2,N,Natural,April,Striper,433,462,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Bass,304,320,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Bass,349,369,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Bass,302,320,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Bass,323,330,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Bass,76,80,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Bass,45,47,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Chinook,77,85,Yes
+26.9L,4/22/2011,2,R,Wetland Trench,April,Chinook,82,90,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Chinook,80,88,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Chinook,70,78,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Chinook,80,88,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Chinook,75,82,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Chinook,77,84,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Chinook,78,83,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Chinook,79,85,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Chinook,44,48,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Chinook,80,89,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Chinook,75,82,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Chinook,78,86,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Chinook,86,92,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Dsmelt,77,82,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Pikeminnow,129,141,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Sculpin,0,83,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Steelhead,42,44,No
+26.9L,4/22/2011,2,R,Wetland Trench,April,Striper,396,427,No

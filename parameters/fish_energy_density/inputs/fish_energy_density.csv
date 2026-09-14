@@ -1,0 +1,8 @@
+year,author,journal,species,life_stage,value,units,note,article
+2005,Trudel,NAJ of FM,Chinook,juvenile,3550,J/g,range min,1
+2005,Trudel,NAJ of FM,Chinook,juvenile,6740,J/g,range max,1
+2010,Trudel,CJF and AS,Chinook,juvenile,4270,J/g,range min,2
+2010,Trudel,CJF and AS,Chinook,juvenile,4550,J/g,range max,2
+2017,Borin,Env Bio of F,sturgeon,adult,4393,j/g,mean of mixed sturgeon form USDA,3
+2017,Johnson,Trans AF Soc,steelhead,adult,3806,j/g,rainbow trout,4
+2017,Johnson,Trans AF Soc,steelhead,adult,6870,j/g,rainbow trout,4

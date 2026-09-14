@@ -1,0 +1,42 @@
+year,author,jounral,species,river ,run,expSetup,NA,length_cm,temperature_C,turb_NTU,time_days,measure,units,ImageJ,note
+2013,Cavallo,Enviro Bio Fish,Chinook,Sac,Fall,Field,32,10.2,17.41787432,5.763803681,3.2,0.889489918,survival,Y,none
+2013,Cavallo,Enviro Bio Fish,Chinook,Sac,Fall,Field,32,10.2,16.96377052,7.368194018,3.2,0.841164659,survival,Y,none
+2013,Cavallo,Enviro Bio Fish,Chinook,Sac,Fall,Field,32,10.2,16.72664566,7.805694018,3.2,0.704216867,survival,Y,none
+2013,Cavallo,Enviro Bio Fish,Chinook,Sac,Fall,Field,32,10.2,16.45501161,7.221913344,3.2,0.728176624,survival,Y,none
+2013,Cavallo,Enviro Bio Fish,Chinook,Sac,Fall,Field,32,10.2,15.82459377,25.12384969,3.2,0.84210036,survival,Y,none
+2013,Cavallo,Enviro Bio Fish,Chinook,Sac,Fall,Field,32,10.2,16.06973968,10.87020706,3.2,0.719477912,survival,Y,none
+2013,Cavallo,Enviro Bio Fish,Chinook,Sac,Fall,Field,32,10.2,16.1671489,34.82199003,0.17,0.998190701,survival,Y,none
+2013,Cavallo,Enviro Bio Fish,Chinook,Sac,Fall,Field,32,10.2,16.53395374,97.67638037,0.17,0.556293214,survival,Y,outlier
+2010,Michel,MS Santa Cruz,Chinook,Sac,Late-Fall,Field,804,16.2,NA,NA,NA,0.995331336,daily survival,N,none
+2010,Michel,MS Santa Cruz,Chinook,Sac,Late-Fall,Field,804,16.2,NA,NA,NA,0.993906834,daily survival,N,none
+2010,Michel,MS Santa Cruz,Chinook,Sac,Late-Fall,Field,804,16.2,NA,NA,NA,0.978669802,daily survival,N,none
+2010,Michel,MS Santa Cruz,Chinook,Sac,Late-Fall,Field,804,16.2,NA,NA,NA,0.979779797,daily survival,N,none
+2010,Michel,MS Santa Cruz,Chinook,Sac,Late-Fall,Field,804,16.2,NA,NA,NA,0.991144283,daily survival,N,none
+2010,Michel,MS Santa Cruz,Chinook,Sac,Late-Fall,Field,804,16.2,NA,NA,NA,0.983654802,daily survival,N,none
+2010,Michel,MS Santa Cruz,Chinook,Sac,Late-Fall,Field,804,16.2,NA,NA,NA,0.978694923,daily survival,N,none
+2010,Michel,MS Santa Cruz,Chinook,Sac,Late-Fall,Field,804,16.2,NA,NA,NA,0.983539752,daily survival,N,none
+2015,Michel,C. J. Fish Aq,Chinook,Sac,Late-Fall,Field,200,16.5,8.109777134,4.990860215,14.85106383,0.155,survival,N,This T and U are form gauge data at time of exp
+2015,Michel,C. J. Fish Aq,Chinook,Sac,Late-Fall,Field,304,16.9,7.348817726,33.39324117,19.94285714,0.245,survival,N,This T and U are form gauge data at time of exp
+2015,Michel,C. J. Fish Aq,Chinook,Sac,Late-Fall,Field,300,15.2,8.645162779,3.68069085,19.94285714,0.319,survival,N,This T and U are form gauge data at time of exp
+2015,Michel,C. J. Fish Aq,Chinook,Sac,Late-Fall,Field,306,15.3,8.938843254,45.45825542,15.93607306,0.227,survival,N,This T and U are form gauge data at time of exp
+2015,Michel,C. J. Fish Aq,Chinook,Sac,Late-Fall,Field,240,15.8,9.269066512,4.525268817,9.694444444,0.632,survival,N,This T and U are form gauge data at time of exp
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,3.028132992,NA,NA,NA,0.448101266,relative vlun.,Y,none
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,3.012787724,NA,NA,NA,0.336708861,relative vlun.,Y,none
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,3.979539642,NA,NA,NA,0.15443038,relative vlun.,Y,none
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,4.010230179,NA,NA,NA,0.174683544,relative vlun.,Y,none
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,5.038363171,NA,NA,NA,0.192405063,relative vlun.,Y,none
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,5.007672634,NA,NA,NA,0.220253165,relative vlun.,Y,none
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,6.035805627,NA,NA,NA,0.081012658,relative vlun.,Y,none
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,6.00511509,NA,NA,NA,0.205063291,relative vlun.,Y,none
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,6.956521739,NA,NA,NA,0.088607595,relative vlun.,Y,none
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,6.987212276,NA,NA,NA,0.096202532,relative vlun.,Y,none
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,3.086433189,NA,NA,NA,0.74337984,relative vlun.,Y,none
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,3.02479159,NA,NA,NA,0.133193305,relative vlun.,Y,none
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,4.020329539,NA,NA,NA,0.058727118,relative vlun.,Y,none
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,4.037633589,NA,NA,NA,0.1353155,relative vlun.,Y,none
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,5.034151013,NA,NA,NA,0.099146769,relative vlun.,Y,none
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,5.022789108,NA,NA,NA,0.254896285,relative vlun.,Y,none
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,6.007422241,NA,NA,NA,0.35405176,relative vlun.,Y,none
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,6.029493067,NA,NA,NA,0.017021091,relative vlun.,Y,none
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,7.057223081,NA,NA,NA,0.00126461,relative vlun.,Y,none
+2001,willette,Fish. Oceanog.,Pink,AK Ocean,Pink,Field,NA,7.016346342,NA,NA,NA,0.202984133,relative vlun.,Y,none

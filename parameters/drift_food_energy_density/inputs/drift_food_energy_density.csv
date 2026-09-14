@@ -1,0 +1,17 @@
+year,author,jounral,location,taxon,commonName,lifeStage,scaledWeightOfSample,digestability,energyDensity_j_per_gDryMass,energyDensity_j_per_gWetMass
+2003,Limm,Report,Sac,Chironomidae,nematoceran flies,Larva,0.3,0.721,20662,1762.5
+2003,Limm,Report,Sac,Copopeda,small crustaceans,Adult,0.9,0.627,21766,2792
+2003,Limm,Report,Sac,Copopeda,small crustaceans,Adult,0.4,0.627,21766,2792
+2001,Martin,Cal  Fish and Game,Sac,Trichoptera Hydropsychidae ,caddisfly,Larve,0.21,0.809,23824,4703.5
+2001,Martin,Cal  Fish and Game,Sac,Trichoptera Hydropsychidae ,caddisfly,Larve,0.26,0.809,23824,4703.5
+2001,Martin,Cal  Fish and Game,Sac,Trichoptera Hydropsychidae ,caddisfly,Larve,0.34,0.809,23824,4703.5
+2001,Martin,Cal  Fish and Game,Sac,Chironomidae,nematoceran flies,Adult,0.77,0.809,20662,1762.5
+2001,Martin,Cal  Fish and Game,Sac,Cladocera,water flees,Adult,0.12,0.627,22843,2513.5
+2001,Martin,Cal  Fish and Game,Sac,Diptera Chironomidae ,nematoceran flies,Larve/Pupae,0.15,0.809,20662,1762.5
+2001,Martin,Cal  Fish and Game,Sac,Ephemeroptera Baetis ,Mayflies,Nymph,0.13,0.809,23824,4703.5
+1996,Merz,Cal  Fish and Game,Sac,Baetidae,Mayflies,Adult,0.15,0.809,23824,4703.5
+1996,Merz,Cal  Fish and Game,Sac,Chironomidae,nematoceran flies,Adult,0.85,0.809,20662,1762.5
+2001,Petrusso,Cal. Fish Game,Sac,Baetidae,Mayflies,Nymph,0.126,0.627,23824,4703.5
+2001,Petrusso,Cal. Fish Game,Sac,Chironomidae,nematoceran flies,Adult,0.316,0.721,20662,1762.5
+2001,Petrusso,Cal. Fish Game,Sac,Chironomidae,nematoceran flies,Pupa,0.194,0.721,20662,1762.5
+2001,Petrusso,Cal. Fish Game,Sac,Chironomidae,nematoceran flies,Larva,0.343,0.721,20662,1762.5

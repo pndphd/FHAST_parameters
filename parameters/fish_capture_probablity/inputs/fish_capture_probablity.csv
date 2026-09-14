@@ -1,0 +1,152 @@
+year ,author,species,expSetup,N,size_mm,maxSwimSpeed_cm_per_s,velocity_cm_per_s,ratio_V_per_Max,prob,jounral,imageJ
+1993,Hill,Rainbow,Lab,,61.5,37.36005,0,0,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,0,0,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,0,0,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,5,0.133832797,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,5,0.133832797,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,5,0.133832797,0.892,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,10,0.267665595,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,10,0.267665595,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,10,0.267665595,0.944,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,15,0.401498392,0.948,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,15,0.401498392,0.922,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,15,0.401498392,0.862,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,20,0.535331189,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,20,0.535331189,0.862,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,20,0.535331189,0.599,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,25,0.669163987,0.941,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,25,0.669163987,0.677,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,25,0.669163987,0.32,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,30,0.802996784,0.941,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,30,0.802996784,0.654,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,30,0.802996784,0.193,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,35,0.936829581,0.918,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,35,0.936829581,0.654,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,35,0.936829581,0.26,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,40,1.070662379,0.933,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,40,1.070662379,0.595,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,40,1.070662379,0.1,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,0,0,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,0,0,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,0,0,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,5,0.105596398,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,5,0.105596398,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,5,0.105596398,0.899,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,10,0.211192796,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,10,0.211192796,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,10,0.211192796,0.959,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,15,0.316789194,0.981,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,15,0.316789194,0.922,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,15,0.316789194,0.806,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,20,0.422385592,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,20,0.422385592,0.963,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,20,0.422385592,0.772,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,25,0.527981989,0.985,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,25,0.527981989,0.862,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,25,0.527981989,0.642,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,30,0.633578387,0.989,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,30,0.633578387,0.817,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,30,0.633578387,0.451,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,35,0.739174785,0.929,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,35,0.739174785,0.724,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,35,0.739174785,0.362,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,40,0.844771183,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,40,0.844771183,0.784,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,40,0.844771183,0.112,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,0,0,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,0,0,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,0,0,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,5,0.133832797,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,5,0.133832797,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,5,0.133832797,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,10,0.267665595,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,10,0.267665595,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,10,0.267665595,0.929,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,15,0.401498392,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,15,0.401498392,0.929,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,15,0.401498392,0.866,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,20,0.535331189,0.929,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,20,0.535331189,0.772,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,20,0.535331189,0.679,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,25,0.669163987,0.903,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,25,0.669163987,0.5,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,25,0.669163987,0.31,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,30,0.802996784,0.869,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,30,0.802996784,0.44,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,30,0.802996784,0.216,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,35,0.936829581,0.679,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,35,0.936829581,0.34,Ecology,Y
+1993,Hill,Rainbow,Lab,,61.5,37.36005,35,0.936829581,0.104,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,0,0,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,0,0,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,0,0,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,5,0.105596398,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,5,0.105596398,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,5,0.105596398,0.966,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,10,0.211192796,0.981,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,10,0.211192796,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,10,0.211192796,0.963,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,15,0.316789194,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,15,0.316789194,0.989,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,15,0.316789194,0.873,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,20,0.422385592,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,20,0.422385592,0.873,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,20,0.422385592,0.723,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,25,0.527981989,0.97,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,25,0.527981989,0.779,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,25,0.527981989,0.633,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,30,0.633578387,0.914,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,30,0.633578387,0.64,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,30,0.633578387,0.341,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,35,0.739174785,0.906,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,35,0.739174785,0.536,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,35,0.739174785,0.232,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,40,0.844771183,1,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,40,0.844771183,0.61,Ecology,Y
+1993,Hill,Rainbow,Lab,,98,47.3501,40,0.844771183,0.487,Ecology,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,28.9,0.703933747,0.70022,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,28.9,0.703933747,0.67208,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,28.9,0.703933747,0.65909,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,28.9,0.703933747,0.54978,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,30,0.730727073,0.69048,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,30,0.730727073,0.68182,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,30,0.730727073,0.6526,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,30,0.730727073,0.62987,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,30,0.730727073,0.58874,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,39.9,0.971867008,0.56061,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,40,0.974302765,0.54113,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,39,0.949945195,0.49134,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,39,0.949945195,0.4513,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,39.1,0.952380952,0.41126,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,39,0.949945195,0.36255,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,40,0.974302765,0.36039,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,40,0.974302765,0.33983,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,40,0.974302765,0.29113,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,48,1.169163318,0.38961,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,48,1.169163318,0.34091,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,48,1.169163318,0.33117,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,48,1.169163318,0.29221,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,48,1.169163318,0.20887,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,49,1.193520887,0.22078,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,49,1.193520887,0.24134,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,49,1.193520887,0.25216,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,49,1.193520887,0.29221,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,49,1.193520887,0.35065,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,54,1.315308732,0.36147,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,54,1.315308732,0.26948,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,54,1.315308732,0.25216,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,54,1.315308732,0.19048,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,54,1.315308732,0.13961,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,55.1,1.342102058,0.17208,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,55.1,1.342102058,0.2987,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,55.1,1.342102058,0.24026,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,61.1,1.488247473,0.0184,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,61.1,1.488247473,0.03139,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,61.1,1.488247473,0.05195,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,61,1.485811716,0.09957,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,61,1.485811716,0.15043,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,62.1,1.512605042,0.08874,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,62.1,1.512605042,0.11905,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,62.1,1.512605042,0.13203,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,62.1,1.512605042,0.16991,Can J F Aqu Sci,Y
+2008,Piccolo,Coho/Rainbow,Lab,19,75,41.055,62.1,1.512605042,0.21104,Can J F Aqu Sci,Y
